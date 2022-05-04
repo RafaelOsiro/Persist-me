@@ -16,7 +16,3 @@ The game will tell a storytelling about one of my journey.
 
 ## How to Play
 The user needs to press a button to gain clicks. After achieve some amount of clicks, will appear an alert tellings some storytelling passages. And the user needs to press the alert's button.
-
-
-## Credits
-[Jimmy Campbell Early GameBoy Font](https://www.dafont.com/early-gameboy.font)
